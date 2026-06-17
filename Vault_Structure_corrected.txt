@@ -1,0 +1,333 @@
+================================================================================
+ARCHER MASTER VAULT — COMPLETE STRUCTURE AS OF 2026-05-22
+300 MB | 948 files | 12 directories + MAHIHKAN_MASTER_BRIEF
+Location: /home/claude/ARCHER_MASTER_VAULT/
+================================================================================
+
+ROOT DIRECTORY: /home/claude/ARCHER_MASTER_VAULT/
+
+├── MAHIHKAN_MASTER_BRIEF/
+│   ├── Mahihkan_Master_Business_Brief_v1.0_March_2026.pdf (7pp)
+│   ├── Mahihkan_Executive_Summary.docx
+│   ├── Mahihkan_Web3_Ecosystem_Proposal.odt (4-pillar, $2.5M ask, Year 1 rev $1.5M)
+│   ├── mahihkan_com_DNS_Zone.txt (Cloudflare zone export)
+│   └── Product_Pages/
+│       ├── mahihkan_landing.html
+│       ├── MAHIHKAN_Institutional_Sovereignty.html
+│       └── MAHIHKAN_Inexorbilis.html (black/gold, Playfair + IBM Plex Mono)
+│
+├── 01_PRODUCTS/ (Product source, specs, apps, code)
+│   ├── AcerbE/ (Military-Grade Digital Fingerprinter v1.0)
+│   │   ├── App_v1/ (Extracted, CURRENT/PRODUCTION)
+│   │   ├── Legal/ (v1.1 = CURRENT, 15 PDFs)
+│   │   ├── Source_Code/
+│   │   │   ├── acerbe_engine.py (4-layer steganography/AES-256/HMAC/SQLite)
+│   │   │   ├── acerbe_cli.py (stamp, scan, lookup, list, stats, unwrap)
+│   │   │   ├── acerbe_integration.py (RaPaX™ middleware)
+│   │   │   └── server.py (127.0.0.1:7749, auto browser-open)
+│   │   ├── Launchers/ (macOS.command + Windows.bat)
+│   │   ├── Dashboards/ (3 HTML files)
+│   │   ├── README_v1.0.md + QUICK_START_v1.0.md
+│   │   ├── ACERBE_SOURCE_INVENTORY.txt
+│   │   ├── LISTING_COPY.txt
+│   │   ├── EULA + LICENSE + PRICING_JUSTIFICATION.txt
+│   │   └── Product sheets + specs
+│   │
+│   ├── RaPaX/ (Sovereign Autonomous POS / Crypto-Gated Digital Vending Machine)
+│   │   ├── Master_v1_0_0_1/ (CURRENT — legal suite, Discord bot)
+│   │   ├── Mobile_v1_0_0/ (React Native)
+│   │   ├── Complete_v1_0_0/
+│   │   └── Product docs + specs
+│   │
+│   ├── INxS/ (Trading Bot System — neon pink/magenta ONLY exception)
+│   │   ├── inxs.html (landing, 48 KB)
+│   │   ├── inxs-sales.html (11 KB)
+│   │   └── 6451.jpg (hero image, 1.7 MB)
+│   │
+│   ├── FabriCat/ (Tauri desktop app, React, schema-driven)
+│   │   └── App_Source/
+│   │       ├── ArcherApp.jsx (45 KB)
+│   │       ├── schema.js
+│   │       ├── Archer_Setup.iss
+│   │       ├── tauri.conf.json
+│   │       ├── Universal_Schema_Template.json
+│   │       └── package.json
+│   │
+│   ├── FabriCatHD_Versions/
+│   │
+│   ├── ReadyYet/ (Compliance assistant for digital creators, North America)
+│   │   ├── index.html (location + creator type + AI API key → checklist)
+│   │   ├── script.js
+│   │   └── style.css (dark theme #050608 black, #f5c451 gold)
+│   │
+│   ├── Technical_Documentation/
+│   │   ├── SNIPEY_McSniperson_Technical_Overview.docx (Solana RPC, mempool, 541% ROI)
+│   │   └── ENR_Event_Normalization_Relay.docx
+│   │
+│   ├── CreatorOS_ProductSpec_v1.0_March_2026.pdf (19pp, Gumroad competitor)
+│   ├── AI_Workforce_Bot_C1_TaskMapping.pdf (7pp, 150 tasks × 22 archetypes, ~25% complete)
+│   ├── ARCHER_TOOL_Listing_Generator.html
+│   ├── ARCHER_TOOL_Listing_Generator_v2.html
+│   ├── ARCHER_LANDING_archer-chain-analytics.html
+│   ├── Snipey_McSniperson_Loading_Screen.html (Flask Jinja2, pulsing animation)
+│   ├── SalvageBotX_product_sheet.json
+│   ├── INxS_product_sheet.json
+│   ├── Argos_product_sheet.json
+│   ├── Aletheia_product_sheet.json
+│   ├── CryptoHallOfAlexandria_product_sheet.json
+│   └── CreatorOS_product_sheet.json
+│
+├── 02_LISTENERS/ (583 blockchains, production-ready)
+│   ├── ALETHEIA_x101_LEGACY/ (116 hardened listeners, April 21-26 2026)
+│   ├── ALETHEIA_x333_packages/ (333 base listeners, May 16 2026)
+│   ├── ALETHEIA_x59_NEW_MAINNETS/ (59 newest, May 20 2026)
+│   ├── ALETHEIA_Packager_Toolkit/
+│   │   ├── launcher.py
+│   │   ├── listener_packager.py (11 KB)
+│   │   ├── listener_packager_gui.py (18 KB)
+│   │   └── BitcoinMainnet_package.zip (example)
+│   ├── VERSIONS_BY_NETWORK/ (Version manifest, 12 duplicates tracked)
+│   ├── nano-chain-listeners_PackageSpec.docx (TypeScript, 12 chains)
+│   ├── LISTENER_REGISTRY_SUMMARY.txt
+│   ├── COMPLETE_INVENTORY_116_LISTENERS.json
+│   └── listener_registry.json
+│
+│   TOTAL COVERAGE: 583 active blockchain networks (x333 + x59 + x101 legacy + 75 additional confirmed)
+│   ALL: 100% production-ready
+│   DUPLICATES: 12 networks tracked (10 identical, 2 audit-required)
+│
+├── 03_EVIDENCE/ (Operational proofs, logs, testing)
+│   ├── ARCHER_PROOF_RaPaX_Dashboard_Operational.png
+│   ├── ARCHER_OPERATIONS_LOG_CONSOLIDATED_2026-05-03.md
+│   ├── SALVAGEBOX_AUDIT_LOG.csv
+│   ├── ARCHER_EVIDENCE_INxS_Bot_Comparison.pdf
+│   ├── ARCHER_EVIDENCE_Backtesting_Results_2025.docx (21383% ROI, 78% win rate)
+│   └── REFERENCE_GitLab_Aletheia101_GetStarted.url
+│
+├── 04_LEGAL/ (14-document legal framework per product)
+│   ├── AcerbE/ (15 PDFs)
+│   │   ├── TOS.pdf
+│   │   ├── EULA.pdf
+│   │   ├── Privacy.pdf
+│   │   ├── Cookie.pdf
+│   │   ├── Refund.pdf
+│   │   ├── AUP.pdf
+│   │   ├── DPA.pdf
+│   │   ├── Security.pdf
+│   │   ├── SLA.pdf
+│   │   ├── Support.pdf
+│   │   ├── Disclosure.pdf
+│   │   ├── Export_Control.pdf
+│   │   ├── Audit_Notice.pdf
+│   │   ├── License.pdf
+│   │   └── IP_Statement.pdf
+│   ├── RaPaX/ (14-doc suite)
+│   ├── INxS/ (14-doc suite)
+│   ├── Aletheia/ (14-doc suite)
+│   ├── SalvageBotX/ (14-doc suite)
+│   ├── Argos/ (14-doc suite)
+│   ├── CryptoHallOfAlexandria/ (14-doc suite)
+│   └── CreatorOS/ (14-doc suite)
+│
+├── 05_VALUATION/ (IP appraisal & investor materials)
+│   ├── valuation_summary.json
+│   ├── ARCHER_MASTER_APPRAISAL_2026.docx
+│   │   └── Portfolio FMV: $34,130,000 USD
+│   │   └── ERC: $39,950,000
+│   │   └── CLV: $9,030,000/yr
+│   │   └── 8 products, ASI avg: 8.9, SMCRI avg: 80.3
+│   │   └── Status: Pre-Revenue / IP-Active / Institutional-Grade
+│   └── Investor_Materials/
+│       ├── ACA_Business_Plan_Prospectus.docx
+│       ├── ACA_Business_Plan_Prospectus_FINAL.docx
+│       ├── ACA_Investor_Letter.docx
+│       ├── ACA_Investor_Letter_FINAL.docx
+│       └── ARCHER_Business_Plan_Prospectus_v2.docx
+│       └── Seed: $15K for 20% @ $5M post-money
+│
+├── 06_BUSINESS/ (Corporate operations & brand)
+│   ├── Brand_Assets/
+│   │   ├── ARCHER_Business_Card_Gold_Black.jpg
+│   │   └── ARCHER_Logo_v1.png (circular medallion)
+│   ├── Certifications/
+│   │   ├── ARCHER_CERT_GST_Registration_2025-11-29.jpg
+│   │   ├── ARCHER_CERT_Registration_Proof.jpg
+│   │   └── ARCHER_CERT_Registration_Receipt.jpg
+│   ├── Official_Documents_Archive/ (7z extracted)
+│   ├── Emergency_Survival_Kit/survival-kit/
+│   │   ├── 00_START_HERE.md
+│   │   ├── setup.sh
+│   │   ├── secure_config.py
+│   │   ├── termux_maps
+│   │   ├── backup_to_usb.sh
+│   │   └── panic_mode.sh
+│   ├── ARCHER_Business_Overview.docx
+│   ├── ARCHER_Header_Template.odt
+│   └── ARCHER_Social_Ecosystem_Manager_Role.docx
+│
+├── 07_BRAND/ (Visual identity & marketing)
+│   └── Marketing_Materials/
+│       ├── ARCHER_SCREENSHOT_AcerbE_Forensic_Scan.png
+│       ├── ARCHER_SCREENSHOT_AcerbE_Stamp_Product.png
+│       ├── ARCHER_SCREENSHOT_AcerbE_Dashboard.png
+│       ├── ARCHER_MARKETING_AcerbE_Ad_Screenshot_2026-04-23.jpg ($863 CAD)
+│       ├── ARCHER_MARKETING_Launch_Kit.html
+│       ├── ARCHER_Business_Card_Gold_Black_2026.jpg
+│       └── Logo_Files/ (brand variations)
+│           ├── ARCHER_LOGO_INxS_Neon_Magenta_2026.jpg
+│           ├── ARCHER_SCREENSHOT_Google_Branding_2026-04-02.jpg
+│           └── ARCHER_SCREENSHOT_INxS_Neon_Branding_2026-03-16.jpg
+│
+├── 08_ARCHIVE/ (Duplicates, older versions, format variants)
+│   ├── AcerbE_v1_App_DUPLICATE_1.zip (identical to App_v3)
+│   ├── AcerbE_v1_App_DUPLICATE_2.zip
+│   ├── AcerbE_Legal_Suite_v1_OLDER/
+│   ├── rapax_v1_0_0_TARBALL_ARCHIVE.tar.gz
+│   ├── ALETHEIA_x101_101_Complete_7Z_FORMAT.7z
+│   ├── UNCLASSIFIED_DOCX/ (7 unnamed Document_*.docx — PENDING identification)
+│   ├── ACA_Business_Plan_Prospectus_ODT_Format.odt
+│   ├── ACA_Investor_Letter_ODT_Format.odt
+│   ├── ACS_Business_Structure_Overview_ODT_Format.odt (DEPRECATED — ACS is old)
+│   ├── Backup_April1525_2025-04-15_09_46.mpb (26 MB binary, FLAGGED)
+│   ├── mahihkan_DUPLICATE_1.html
+│   ├── mahihkan_DUPLICATE_2.html
+│   ├── ARCHER_Business_Card_DUPLICATE.jpg
+│   ├── ARCHER_Logo_v1_DUPLICATE.png
+│   ├── boo.txt (EMPTY)
+│   ├── sort_files.sh (EMPTY)
+│   ├── ARCHER_CHAIN_ANALYTICS_BRAND_PACKAGE.md (EMPTY)
+│   ├── survival-kit_UNCOMPRESSED.zip
+│   ├── Logfile_Archive.odt
+│   ├── mahihkan_com_backup.zip
+│   ├── LOCK_FILE_Letter_of_Authority_OpenOffice_2026-04-26.txt
+│   └── ARCHER_EXECUTABLE_InnerZero_Setup_0_1_5.exe (FLAGGED, unknown origin)
+│
+├── 09_PROJECTS/ (14 projects built collaboratively)
+│   ├── PROJECTS_SUMMARY.txt (Project index & status)
+│   ├── Aletheia_PWA_Project.txt (Independent LinkedIn release)
+│   └── [Projects documented: FairPlay, Mahihkan, RaPaX, CreatorOS, Snipey, etc.]
+│
+├── VAULT_FINAL_MANIFEST.txt (Complete inventory & statistics)
+├── VERSION_CONSOLIDATION_STRATEGY.txt (Deduplication audit)
+└── FINAL_CONSOLIDATION_LOG_2026-05-21.txt (Session summary)
+
+================================================================================
+STATISTICS
+================================================================================
+
+Total Size: 300 MB
+Total Files: 948
+Total Directories: 12 (+ root + MAHIHKAN_MASTER_BRIEF)
+
+BY DIRECTORY:
+├─ 02_LISTENERS/ (Aletheia ecosystem): ~180 MB (583 chains)
+├─ 04_LEGAL/ (Legal suites): ~50 MB (120 PDFs across 8 products)
+├─ 01_PRODUCTS/ (Source code & specs): ~40 MB
+├─ 06_BUSINESS/ (Operations): ~12 MB
+├─ 05_VALUATION/ (Investor materials): ~8 MB
+├─ 08_ARCHIVE/ (Duplicates & older): ~7 MB
+├─ 07_BRAND/ (Marketing): ~2 MB
+├─ 03_EVIDENCE/ (Logs & proofs): ~1 MB
+└─ 09_PROJECTS/ (Project specs): <1 MB
+
+PRODUCT LINE (8 products):
+1. AcerbE™ (ARC-ACB-001) — Forensic watermarking, FMV $4.85M
+2. RaPaX™ (ARC-RPX-001) — Sovereign crypto-gated vending, FMV $3.2M
+3. The Alētheia Array™ (ARC-ALA-001) — AI-supervised blockchain observability mesh (583 chains, zero-trust, production-ready)
+4. SalvageBotX™ — Code salvage/recycler
+5. Mahihkan™ — Sovereign registry (mahihkan.com)
+6. INxS™ — Trading bot assembly (neon pink/magenta exception only)
+7. Argos™ — Autonomous sentinel
+8. CreatorOS™ — Gumroad alternative / ecosystem hub
+
+BRAND STANDARDS (LOCKED):
+- Palette: Black #0A0A0A, Gold #C9A84C/#a6894c, White
+- Exception: INxS™ uses neon pink/magenta
+- Fonts: DM Serif Display (heading), Inter (body), IBM Plex Mono (code)
+- Mascot: Snipey McSniperson™ (circular SMS crosshair)
+- Tagline: "Sovereignty // Integrity // Inexorabilis"
+
+CORPORATE:
+- Entity: Archer Chain Analytics Inc.
+- CRA BN: 754975035 | GST/HST: 754975035 RT0001
+- Effective: 2025-11-30 | Quarterly filing
+- Contact: n.archer101@gmail.com / neilarcher@mahihkan.com
+- Address: 415 Fairmont Dr, Saskatoon, SK S7M5N6
+- Cloudflare Account: Mahihkan (9b608bc4a13898b6c8b2ac52244d27bb)
+
+================================================================================
+ITEMS FLAGGED FOR ATTENTION
+================================================================================
+
+⚠ InnerZero-Setup-0_1_5.exe — unknown origin, archived pending clarification
+⚠ Backup_April1525_2025-04-15_09_46.mpb — 26 MB binary, proprietary format, unverified
+⚠ 7 unclassified DOCX files in 08_ARCHIVE/UNCLASSIFIED_DOCX/ — pending identification
+
+================================================================================
+PENDING / OUTSTANDING ITEMS
+================================================================================
+
+NOT IN VAULT (ON YOUR LAPTOP/USB):
+☐ x333_Complete_Suite_All_Blockchains.zip (10.5 MB)
+☐ Testnet listener packages (separate inventory)
+☐ All screenshots and pictures (requiring Archer Revenue Finder processing)
+☐ Files from other AI collaborations
+
+DOCUMENTATION PENDING:
+☐ Product sub-pages: aletheia.html, acerbe.html, rapax.html, salvagbotx.html, services.html, hall-of-records.html
+☐ Master price list (consolidated SKU pricing)
+☐ Master product description list per product
+☐ Québécois French translation of ALL product documentation
+☐ 7 unclassified DOCX files identification
+☐ ARCHER_CHAIN_ANALYTICS_BRAND_PACKAGE.md (currently empty)
+☐ Archer Family Trust incorporation
+
+TECHNICAL PENDING:
+☐ BotFactory / WorkerBot Vending Machine (name TBD, needs specification)
+☐ Bot Factory completion before June 2-3 opening
+☐ Product universalization audit (Windows, macOS, Linux, Android)
+☐ Final checksums (MD5/SHA256) for version manifest
+☐ USB copy packaging (vault zip for laptop root + USB delivery)
+☐ ARCHER_MASTER_VAULT_COMPLETE_FINAL.zip creation (~2-3 GB compressed)
+
+CRITICAL PATH TO JUNE 2-3 OPENING:
+1. BotFactory completion
+2. Product universalization (Windows, macOS, Linux, Android)
+3. Québécois French translation
+4. Vault finalization
+5. Saskatchewan registration + business licensing
+
+================================================================================
+VAULT EXPORT STATUS
+================================================================================
+
+✓ Initial ARCHER_MASTER_VAULT_COMPLETE.zip exported to /mnt/user-data/outputs/
+✓ ARCHER_MASTER_VAULT_SORTING_KEY.txt exported to /mnt/user-data/outputs/
+✓ VAULT_FINAL_MANIFEST.txt in vault root
+✓ FINAL_CONSOLIDATION_LOG_2026-05-21.txt in vault root
+✓ VERSION_CONSOLIDATION_STRATEGY.txt in vault root
+
+⚠ REQUIRES RE-PACKAGING AFTER:
+  - x333 mainnet listeners added from laptop
+  - Testnet listener packages added
+  - Screenshots processed through Archer Revenue Finder
+  - Collaborative project files from other AI sessions added
+  - BotFactory specification completed
+  - Product universalization completed
+
+================================================================================
+LOCATION
+================================================================================
+
+Current location: /home/claude/ARCHER_MASTER_VAULT/
+Export backup: /mnt/user-data/outputs/ (previous session)
+
+To backup/export this complete vault:
+1. Compress: tar -czf ARCHER_MASTER_VAULT_2026-05-22.tar.gz /home/claude/ARCHER_MASTER_VAULT/
+2. Move to outputs: mv ARCHER_MASTER_VAULT_2026-05-22.tar.gz /mnt/user-data/outputs/
+3. For USB: Repeat step 2 to external USB mount point
+
+================================================================================
+END OF COMPLETE VAULT STRUCTURE
+Generated: 2026-05-22 | Chain count updated: 2026-05-30
+================================================================================

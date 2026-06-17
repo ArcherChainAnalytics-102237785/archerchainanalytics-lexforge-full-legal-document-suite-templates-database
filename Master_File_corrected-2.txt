@@ -1,0 +1,539 @@
+What about this, ARCHER CHAIN ANALYTICS INC.
+
+Master File — Institutional Portfolio Overview
+
+Document Version: 1.0
+Date Generated: May 29, 2026
+Classification: Business Operations / Portfolio Reference
+Entity: Archer Chain Analytics Inc. (Saskatoon, SK)
+CRA Registration: 754975035 | GST/HST: 754975035 RT0001
+Contact: neil.archer@archerchainanalytics.com | neilarcher@mahihkan.com
+
+EXECUTIVE SUMMARY
+
+Archer Chain Analytics is a blockchain infrastructure and digital products company operating at institutional scale. The portfolio comprises 13 revenue-generating products, a 583-blockchain institutional-grade listener network (Alētheia™), internal security infrastructure (Argos™), and a sovereign digital storefront (Mahihkan.com).
+
+Portfolio valuation: $36.23M FMV (IP appraisal, 2026) — includes 583-blockchain INxS capability
+Annual CLV potential: $9.03M
+Status: Pre-revenue / IP-active / Institutional-grade
+
+The company is positioned as the counterweight to centralized blockchain data vendors. All infrastructure is sovereign-owned, zero-trust, and designed for institutional deployment. Legal compliance coverage spans 5 jurisdictions with 14-document suites per product.
+
+MISSION & POSITIONING
+
+Mission:
+Build sovereign blockchain infrastructure and digital product systems that empower creators, institutions, and enterprises to monetize, protect, and distribute digital assets without intermediary dependency.
+
+Core Philosophy:
+Sovereignty, Integrity, Inexorably (Inexorbilis)
+
+Market Differentiation:
+
+Sovereign ownership — No subscriptions, no SaaS lock-in. Clients own their infrastructure.
+
+Zero-trust architecture — Direct node-level data ingestion. No Ring 3 latency (public indexers/relays).
+
+Institutional-grade compliance — 14-document legal bundle per product, multilingual, multi-jurisdictional.
+
+Portfolio synergy — Products are distribution multipliers for one another (RaPaX + AcerbE; Argos + Alētheia; Archer Revenue Finder + all marketplaces).
+
+INSTITUTIONAL STOREFRONT
+
+Mahihkan.com
+
+Status: Work in Progress | Launch: Q2 2026
+
+The sovereign public face and institutional front door of Archer Chain Analytics. Mahihkan serves as:
+
+Proof of institutional existence and legitimacy
+
+Client, partner, and investor landing zone
+
+Primary product storefront and distribution hub
+
+Compliance and regulatory documentation repository
+
+Hall of Records archive integration (immutable ledger of discovery)
+
+Mahihkan is not a product for sale. It is the building in which all products live.
+
+PRODUCT PORTFOLIO
+
+1. Alētheia™ Array — Comprehensive Blockchain Listener Network
+
+Category: Blockchain Infrastructure
+Status: Production-ready (100%)
+Deployment: 583 blockchains monitored in real-time
+
+Description
+
+Institutional-grade, zero-trust blockchain listener infrastructure spanning 583 blockchains. Each listener is a sovereign data acquisition asset deployed directly at the node level, eliminating Ring 3 latency (public indexers, relays, mempool watchers). Raw state changes are observed as they occur across all 583 monitored blockchains simultaneously.
+
+Competitive Benchmark
+
+VendorPer-chain costModelChainalysis$50K–$150K/chain/yrSubscriptionTRM Labs$40K–$120K/chain/yrSubscriptionBlockdaemon$30K–$100K/chain/yrNode infra onlyArcher (Alētheia)Perpetual ownershipOwn the listener 
+
+Pricing Framework
+
+Tier 1 — Single Chain Listener License
+$25,000–$75,000 per listener (one-time)
+
+Based on chain tier (L1 majors vs. emerging L2/L3)
+
+Includes: deployment, integration support, documentation bundle
+
+Tier 2 — Cluster License (10–50 chains)
+$180,000–$600,000 (one-time) + 15% annual maintenance
+
+Volume discount applied
+
+Maintenance includes: new chain additions, protocol upgrades, security patches, compliance updates
+
+Tier 3 — Full Suite (583 blockchains)
+$8M–$18M depending on:
+
+Exclusivity terms
+
+White-label rights
+
+SLA tier (99.9% vs 99.99%)
+
+Jurisdictional compliance scope
+
+Annual Maintenance & Updates
+15–20% of license value/year
+
+Positioning Statement
+
+"This is not a data feed. This is sovereign blockchain intelligence infrastructure. One deployment replaces $6M–$84M in annual vendor spend across 583 blockchains. The 14-document compliance bundle, multilingual legal coverage across 5 jurisdictions, and zero-trust architecture are included. Pricing reflects replacement cost, not market comparison."
+
+Deliverables
+
+583 deployed, production-hardened blockchain listeners
+
+14-document legal compliance suite per product tier
+
+Integration documentation and support
+
+Version manifest with duplicate tracking (12 networks identified, audit-ready)
+
+Packager toolkit (Python CLI + GUI for custom deployments)
+
+2. RaPaX™ — Sovereign Autonomous Point of Sale
+
+Category: Digital Products Vending Machine
+Status: Production (v1.0.0.1 current)
+Versions: Master v1.0.0.1 (legal suite + Discord bot) | Mobile v1.0.0 (React Native) | Complete v1.0.0
+
+Description
+
+The actual digital products vending machine. RaPaX is a cryptographically-gated, sovereign point-of-sale system designed to execute commerce transactions for digital goods without intermediary infrastructure. It integrates directly with AcerbE™ (digital fingerprinting) to provide creator copyright protection and proof-of-ownership.
+
+Technical Stack
+
+Sovereign architecture (no SaaS dependency)
+
+Cryptocurrency gating (multiple blockchain support)
+
+Discord bot integration (community commerce)
+
+Mobile deployment (React Native)
+
+Seamless RaPaX ↔ AcerbE integration
+
+Positioning
+
+RaPaX + AcerbE form the complete "trusted commerce" layer for digital creators. When a product is sold via RaPaX, AcerbE embeds cryptographic proof of ownership and origin.
+
+3. AcerbE™ — Digital Fingerprint Embedded
+
+Category: Creator Copyright Protection
+Status: Production (v1.0, legal v1.1 current)
+Distribution: Standalone app (macOS/Windows launchers) + Server (127.0.0.1:7749)
+
+Description
+
+Military-grade digital fingerprinting system using 4-layer cryptographic steganography:
+
+Steganography layer — Embed metadata invisibly into digital assets
+
+AES-256 encryption — Cryptographic binding
+
+HMAC authentication — Tamper detection
+
+SQLite memory store — Persistent, auditable ledger
+
+Core Capabilities
+
+Stamp — Embed creator fingerprint into digital asset
+
+Scan — Detect and extract embedded fingerprints
+
+Lookup — Query Hall of Records for asset provenance
+
+Unwrap — Recover original metadata and proof-of-origin
+
+Stats — Forensic analysis dashboard
+
+Technical Stack
+
+Python (acerbe_engine.py, acerbe_cli.py, acerbe_integration.py)
+
+Tauri desktop framework
+
+Server (auto-launches browser UI on demand)
+
+3 interactive dashboards (forensic, inventory, audit)
+
+Legal & Compliance
+
+15 PDFs: TOS, EULA, Privacy, DPA, Security, SLA, Export Control, Audit Notice, License, IP Statement, Refund, Cookie, AUP, Disclosure, Support
+
+Multilingual coverage (5 jurisdictions)
+
+EULA + LICENSE + PRICING_JUSTIFICATION included
+
+Pricing (Enterprise)
+
+TBD — Enterprise negotiation model based on deployment scale
+
+Deliverables
+
+Standalone applications (macOS.command + Windows.bat launchers)
+
+Full source code with documentation
+
+3 HTML dashboards
+
+README + QUICK_START guides
+
+Complete legal suite (15 PDFs)
+
+Listing copy and product sheets
+
+4. SalvageBotX™ — Code Recovery & Product Assembly Engine
+
+Category: Developer Tools / Code Recovery
+Status: Production-ready
+
+Description
+
+Code salvage and recycler for digital asset recovery. SalvageBotX ingests fragmented, corrupted, or incomplete code and recovers it into functional, distributable assets. Works in conjunction with FabriCatHD for complete code recovery and assembly workflows.
+
+Positioning
+
+SalvageBotX is the recovery layer for the developer ecosystem—turning broken fragments into shippable products.
+
+5. TubeForge — AI-Powered YouTube Creator Toolkit
+
+Category: Content & Creator Tools
+Status: Production
+
+Description
+
+AI-powered content creation and optimization toolkit specifically designed for YouTube creators. Includes video analytics, scriptwriting assistance, SEO optimization, thumbnail generation, and channel management.
+
+Positioning
+
+TubeForge is the operating system for YouTube content creators—automating the non-creative work so creators can focus on content.
+
+6. ListCraft — Product Listing Generator App
+
+Category: Content & Creator Tools / E-commerce
+Status: Production
+
+Description
+
+AI-powered product listing generation for digital and physical goods. Accepts product details (name, description, specs, images) and automatically generates optimized listings for multiple marketplaces (Amazon, eBay, Etsy, Shopify, etc.) with SEO-tuned descriptions, keywords, and category optimization.
+
+Positioning
+
+ListCraft eliminates the manual labor of marketplace listing creation—one product, infinite marketplace listings.
+
+7. INxS™ (Inexorabilis) — Enterprise-Grade Modular Trading Bot Factory
+
+Category: Blockchain Trading Infrastructure
+Status: Enterprise specification & build (Ready for production deployment)
+
+Description
+
+INxS is a white-label, modular, Lego-style cryptocurrency trading bot assembly framework. Users build complete, production-ready trading bots by selecting exactly one module from each of 7 locked architectural categories. Every module is independent, replaceable, and plug-and-play via a central assembler. Fully standalone operation (runs offline after delivery except for blockchain RPC/WebSocket connections). 100% configuration-driven white-label branding—no hard-coded INxS references in runtime output.
+
+Core Architecture: 7 Locked Module Categories
+
+1. Listener (Foundation)
+Core: Integration of 583 production-ready blockchain listeners. Watches blockchain/mempool for events with unified interface, retry logic, concurrency control, and metrics. Comprehensive coverage across all major blockchain networks.
+
+2. Strategy
+Generates trading signals/decisions from listener events. Parameter validation, optional backtesting hooks, modular signal generation.
+
+3. Chain Adapter
+Abstracts blockchain connectivity (RPC, WebSocket, chain-specific logic). Unified interface with failover, rate limiting, chain ID validation.
+
+4. Wallet Adapter
+Handles key management, signing, transaction building. Local-only key storage, abstract signing interface, secure key loading.
+
+5. Execution Engine
+Executes trades (buy/sell/swaps). Atomic operations, slippage protection, simulation mode, retry with backoff.
+
+6. Risk Module
+Real-time risk checks: scam detection, rug pull prevention, position limits, drawdown protection. Rules engine, pluggable checks, audit logging.
+
+7. Scraper Module
+Fetches external data (listings, metadata, prices). Caching, validation, rate-limit awareness, fallback sources.
+
+Enterprise-Grade Design Principles
+
+Modularity: Abstract base classes + dynamic loading via config
+
+Async-first: asyncio for listeners, execution, and high-throughput handling
+
+Configuration: Pydantic v2 for strict bot config validation
+
+Security: Local HMAC-based license validation (embedded secret + expiry/features). No network calls for licensing
+
+Observability: Structured JSON logging, metrics (counters, timings), health checks
+
+Reliability: Retry/backoff, circuit breakers, pre-flight simulation, graceful shutdown
+
+White-label: Config-driven branding (name, logo, colors, messages). Load branding.json at startup
+
+Packaging: Modern Python package (pyproject.toml + src layout), Docker support, optional PyInstaller
+
+Monetization & Licensing
+
+Sold as ZIP/source package with local license validation
+
+Buyers can rebrand and resell bots/templates/module packs
+
+Standalone offline operation (no vendor lock-in)
+
+White-label rights included
+
+Technical Stack
+
+Language: Python 3.10+
+
+Core Dependencies: Pydantic v2, asyncio, PyYAML, structlog, blockchain libraries (web3, solana-py, etc. as needed)
+
+Architecture: Modular, event-driven, type-hinted, fully async
+
+Testing: pytest with unit and integration test suites
+
+Deployment: Docker, PyInstaller single executable, source distribution
+
+Project Structure
+
+inxs_inxorabilis/ ├── src/inxs/ │ ├── core/ (assembler, config, logging) │ ├── modules/ (7 base classes + 118 listeners + strategy/chain/wallet/execution/risk/scraper implementations) │ ├── utils/ (logging, metrics, security, license validation) │ └── white_label/ (branding loader, license validator) ├── tests/ (unit + integration) ├── examples/ (sample configs, demo strategies) ├── docs/ (API, assembly instructions, white-label guide) └── docker/ (Dockerfile, docker-compose) 
+
+High-Risk Disclaimer
+
+This is a high-risk tool for educational, testing, and development purposes only. Not financial advice. Trading involves substantial risk of loss. Use at your own risk. No liability for losses.
+
+Brand Exception
+
+INxS is the only ACA product that uses neon pink/magenta branding. All other products use black/gold/white palette.
+
+Deliverables
+
+Complete Python source package (pyproject.toml, setuptools layout)
+
+118 integrated blockchain listeners with unified interface
+
+7 abstract module bases + example implementations per category
+
+Local license validation system (HMAC-based)
+
+White-label branding engine
+
+Comprehensive README with assembly and white-label instructions
+
+Example bot configurations and sample strategies
+
+Docker deployment support
+
+pytest test suite
+
+Landing page (inxs.html, 48 KB)
+
+Sales page (inxs-sales.html, 11 KB)
+
+Hero imagery (6451.jpg, 1.7 MB)
+
+Full Catalogue PDF (technical manual)
+
+8. FabriCatHD™ — Code Recovery & Product Assembly Engine
+
+Category: Developer Tools / Product Assembly
+Status: Production (v1.0)
+Stack: Tauri 2.0 / React 18 / Rust core / Anthropic Vision API
+
+Description
+
+Persistent code recovery and product assembly engine. FabriCatHD ingests code in any format or condition—including screenshots of terminals, broken fragments, partial files, ZIP archives, and Jupyter notebooks—recovers the content, stores everything to permanent local memory (survives across sessions), detects relationships between recovered pieces, generates gap-fill code to complete fragments into working products, and produces distribution-ready Archer Master Asset Schema JSON for sale across digital marketplaces.
+
+Distinct Capabilities
+
+Visual code recovery — Recovers code from terminal screenshots (Termux-optimized)
+
+Permanent memory — Every file ever processed is remembered indefinitely
+
+Relationship detection — Automatic identification of connections between separate recovered files
+
+Generative gap-fill — Writes missing bridge code to connect fragments into complete, shippable products
+
+Structured output — Archer Master Asset Schema JSON ready for marketplace distribution
+
+Pricing Framework
+
+Perpetual per tier (not subscription):
+
+Solo — $49 (single user, local deployment)
+
+Pro — $129 (team of 3, integration-ready)
+
+Studio — $349 (enterprise, unlimited seats)
+
+White-label Options:
+
+Rebrand — $699 (custom domain, logo, branding)
+
+Enterprise — $1,999 (full customization, dedicated support)
+
+⚠️ Note: Prices are preliminary and subject to verification.
+
+Deliverables
+
+Tauri desktop application (Windows, macOS, Linux)
+
+Source code (ArcherApp.jsx, schema.js, tauri.conf.json, etc.)
+
+Installer (Archer_Setup.iss for Windows)
+
+Documentation and integration guides
+
+9. CreatorOS™ — Creator Ecosystem Hub
+
+Category: Content & Creator Platform
+Status: Production specification (v1.0 ProductSpec, March 2026, 19 pages)
+
+Description
+
+Gumroad alternative and creator ecosystem hub. CreatorOS provides creators with integrated tools for product management, payment processing, community building, and distribution across multiple channels. Designed as a sovereign alternative to centralized creator platforms.
+
+Positioning
+
+CreatorOS is the operating system for independent creators—a complete ecosystem for managing products, revenue, community, and distribution without platform dependency.
+
+Status
+
+Product specification complete (19-page document)
+
+Ready for development phase
+
+Positioning and market research finalized
+
+10. FairPlay Marketplace — Creator-Focused Digital Marketplace
+
+Category: Content & Creator Tools
+Status: Production-ready
+
+Description
+
+Digital marketplace platform designed specifically for independent creators, artists, and developers to sell products without intermediary take-rates or platform dependency. FairPlay provides payment processing, distribution infrastructure, and community features optimized for creator economics.
+
+Positioning
+
+FairPlay is the fair-trade alternative to centralized creator marketplaces—creators keep more revenue and own their customer relationships.
+
+11. Archer Revenue Finder — Digital Asset Scanner & Marketplace Distributor
+
+Category: Creator Tools / Asset Management
+Status: Production-ready
+
+Description
+
+Desktop application that scans your local files for sellable digital assets, automatically sanitizes them for compliance (PII scrubbing, license verification), and distributes them across 13 marketplaces simultaneously. Handles the complete pipeline—from privacy sanitization and legal compliance checks to automated marketplace listing—in a single click.
+
+Core Features
+
+Asset detection — Identifies sellable digital products in your file system
+
+Compliance sanitization — Removes PII, verifies licenses, checks export restrictions
+
+Multi-marketplace distribution — One-click publishing across 13 platforms simultaneously
+
+Audit trail — Complete provenance record of each asset's distribution lifecycle
+
+Competitive Advantage
+
+Eliminates the manual labor of listing products across multiple marketplaces. Reduces time-to-market from hours to minutes. Enforces compliance automatically.
+
+12. Ready Yet™ — Creator Compliance Assistant
+
+Category: Business Tools
+Status: Production (interactive checklist app)
+
+Description
+
+Compliance assistant for digital creators operating in North America. Accepts creator location (city/state), creator type (podcaster, YouTuber, developer, etc.), and AI API key input; generates jurisdiction-specific regulatory checklist for that creator's activities.
+
+Features
+
+Location-aware compliance rules (US state + Canadian province/territory)
+
+Creator-type-specific regulations (different requirements for podcasters vs. software developers)
+
+Dark theme branding (#050608 black background, #f5c451 gold accent)
+
+Real-time checklist generation
+
+Technical Stack
+
+HTML/JavaScript (index.html + script.js)
+
+Dark-themed CSS (style.css)
+
+No backend dependency (client-side generation)
+
+13. Online WorkerBot Factory — Autonomous Worker Creation System
+
+Category: AI Workforce Automation
+Status: Development / Specification (7-page AI Workforce Bot C1 TaskMapping document)
+Current Completion: ~25%
+
+Description
+
+Autonomous system for creating, deploying, and managing specialized AI worker bots. Designed to generate task-specific bot agents from templates and natural language specifications.
+
+Scope
+
+150 mapped tasks across 22 archetypes
+
+Task-to-bot compilation
+
+Deployment and monitoring framework
+
+Critical Path
+
+Completion required before June 2–3 opening.
+
+INTERNAL REVENUE INFRASTRUCTURE
+
+Argos™ — Autonomous Bug-Bounty Sentinel
+
+Category: Internal Security & Revenue Infrastructure
+Status: Development / Proof-of-concept (Core concept proven, commercial roll-out pending)
+Revenue Attribution: Primary contributor to institutional security audit contracts and bounty program revenue
+
+Description
+
+High-velocity, sovereign security layer for the blockchain ecosystem. Argos functions as a first-responder system that detects, simulates, and reports vulnerabilities in real-time—often before the broader market or mempool recognizes an exploit is occurring.
+
+Core Philosophy: Architectural Proximity
+Argos is designed to operate "inside the blast radius" of block production, achieving a speed advantage impossible for competitors relying on public data relays.
+
+Functional Pillars
+
+1. The Alētheia Listener Array (The "Eyes")
+583 institutional-grade listeners covering all major blockchains. Direct node-level data ingestion eliminates Ring 3 latency (public indexers, relays, me
